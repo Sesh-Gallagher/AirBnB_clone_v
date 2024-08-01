@@ -1,1 +1,1 @@
-this readme is about this file and all its contents
+This readme is about this repo and the files it contains
